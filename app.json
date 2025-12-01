@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mellow-mind",
-    "slug": "mellow-mind",
+    "name": "DMAFB",
+    "slug": "dmafb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "mellow-mind",
+    "scheme": "dmafb",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
